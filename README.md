@@ -1,2 +1,2 @@
-# Microsoft-DynamicsNAV2009ApplicationDesign
-Programming Examples for Microsoft Dynamics NAV 2009 Application Design
+# DynamicsNAV2013ApplicationDesign
+Objects for the 2013 Application Design Book
